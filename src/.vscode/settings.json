@@ -1,0 +1,9 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "[python]": {
+        "editor.wordBasedSuggestions": true
+    },
+    "python.pythonPath": "%USERPROFILE%\\anaconda3\\envs\\cq21-jl3\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath":"%USERPROFILE%\\anaconda3\\envs\\cq21-jl3\\"
+}
